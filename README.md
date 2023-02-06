@@ -1,15 +1,27 @@
 ### Hi there 👋
+  **PurityKM/PurityKM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div><hr>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 </div><hr>
 ### :woman_technologist: About Me :<div>
+
+Here are some ideas to get you started:<br>
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.<br>
+
+- 🔭 I’m currently working on building my website.
+- 🌱 I’m currently learning ReactJS.
+- 👯 I’m looking to collaborate on projects that may seem complex.
+<!-- 🤔 I’m looking for help with -->
+- 💬 Ask me about Web Development
+
 📌 :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.<br>
 📌 :zap: In my free time, I tech articles.<br>
 📌 :mailbox:How to reach me: irungu1210@gmail.com
+  <hr>
+  <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   <hr>
   ### :hammer_and_wrench: Languages and Tools :
   <div>
