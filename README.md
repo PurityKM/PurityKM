@@ -2,11 +2,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 </div><hr>
+### Hi there 👋 I'm Purity Irungu, a driven and dedicated Frontend Developer <div><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a passion for utilizing technology to create beautiful and functional websites.<br>
 ### :woman_technologist: About Me :<div>
-
-Here are some ideas to get you started:<br>
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.<br>
-### Hi there 👋
 📌 🔭 I’m currently working on building my website.<br>
 📌 🌱 I’m currently learning ReactJS.<br>
 📌 👯 I’m looking to collaborate on projects that may seem complex.<br>
