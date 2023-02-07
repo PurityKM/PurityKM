@@ -9,8 +9,8 @@
 📌 👯 I’m looking to collaborate on projects that may seem complex.<br>
 📌 ⚡ Fun fact: Coding Passionate <br>
 📌 💬 Ask me about Web Development<br>
-📌 :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.<br>
-📌 :zap: In my free time, I tech articles.<br>
+📌 :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.<br>
+📌 :zap: In my free time, I read tech articles and solve problems.<br>
 📌 :mailbox:How to reach me: irungu1210@gmail.com
   <hr>
    ### :hammer_and_wrench: Languages and Tools :
