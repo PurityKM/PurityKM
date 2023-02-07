@@ -1,7 +1,7 @@
 ### Hi there 👋
   **PurityKM/PurityKM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 </div><hr>
@@ -13,7 +13,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m currently working on building my website.
 - 🌱 I’m currently learning ReactJS.
 - 👯 I’m looking to collaborate on projects that may seem complex.
-<!-- 🤔 I’m looking for help with -->
+- ⚡ Fun fact: 
+
 - 💬 Ask me about Web Development
 
 📌 :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.<br>
@@ -31,7 +32,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 
   </div>
-  <div align="center">
+  <div align="left">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   <hr>
 
@@ -55,5 +56,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
