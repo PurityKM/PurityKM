@@ -6,6 +6,7 @@
 ### :woman_technologist: About Me :<div>
 📌 🔭 I’m currently working on building my website.<br>
 📌 🌱 I’m currently learning ReactJS.<br>
+📌 🌱 I’m also learning Python for data science.<br>
 📌 👯 I’m looking to collaborate on projects that may seem complex.<br>
 📌 ⚡ Fun fact: Coding Passionate <br>
 📌 💬 Ask me about Web Development<br>
