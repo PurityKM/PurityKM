@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Purity Irungu, a driven and dedicated Frontend Developer <div><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a passion for utilizing technology to create beautiful and functional websites.<br>
+### Hi there 👋 I'm Purity Irungu, a self-driven and dedicated Frontend Developer <div><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a passion for utilizing technology to create beautiful and functional websites.<br>
 ### :woman_technologist: About Me :<div>
 📌 🔭 I’m currently working on building my website.<br>
 📌 🌱 I’m currently learning ReactJS.<br>
